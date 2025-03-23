@@ -1,16 +1,17 @@
 # Fullstack Web Developer & Machine Learning Engineer
 
 ## About Me
-I am a passionate and experienced Fullstack Web Developer with a solid background in relational databases, Laravel, API development, and frontend technologies including React, Vue.js, and jQuery with CSS frameworks like Tailwind and Bootstrap. With over 5 years of hands-on experience in web development, I have successfully delivered numerous projects, showcasing my expertise in building robust and scalable web applications.
-
-Currently, I am pursuing a Masters in Data Science and Analytics, aiming to transition into the role of a Machine Learning Engineer. Through my academic journey, I have gained in-depth knowledge of data visualization, warehouse modeling and analysis, business analytics, and various machine learning algorithms including supervised and unsupervised learning. Proficient in Python programming and adept at data analysis using Excel, I have worked on several projects spanning business analytics, data visualization, data warehousing, and machine learning predictions.
+Data Scientist specializing in AI and machine learning solutions with 7+ years of experience in full-stack web development. Strong R&D capabilities across medical and business sectors strengthen to uncover actionable insights, develop predictive models and implement data-driven solutions. Skilled in Python, Scikit-learn, TensorFlow, SQL, Power BI, and cloud Platform AWS. Strong collaborator with cross-functional teams, adept at translating technical concepts for stakeholders. Currently advancing expertise in Generative AI through the IBM Generative AI Professional Certificate. Seeking to leverage my R&D strengths to build innovative AI solutions for the healthcare and technology sectors.
 
 ## Skills
-- **Programming Languages:** PHP (Laravel), Python, javascript 
-- **Frontend Technologies:** HTML, CSS (Tailwind, Bootstrap), React, Vue , Jquery 
-- **Database Management:** RDBMS (MySQL, PostgreSQL)
-- **API Development:** RESTful APIs
-- **Data Science:** Data Visualization, Warehouse Modeling, Machine Learning predictions
+- **Programming Languages:** Expert in Python (Pandas, NumPy, Scikit-Learn), SQL, PHP and JavaScript 
+- **Mathemetics:** Statistical analysis, probability and distribution, hypothesis testing, linear algebra, calculus.      
+- **Machine Learning and AI Model:** Expertise in supervised/unsupervised Models, NLP, CNN, RAG, and hypothesis testing.
+- **AI Frameworks & Libraries:** Proficient in TensorFlow, OpenCV, Transformers, and LlamaIndex.
+- **MLOps and Web Deployment:** Skilled in Docker, Git, GitHub/GitLab CI/CD pipelines, model deployment
+- **Database Management:** vector databases (Chroma), SQL databases (Postgres, MySQL) and Nosql (mongoDB).
+- **Data Visualization:** Expert in Excel, Matplotlib, Seaborn, Chartj, familiar with Tableau and Power Bi.
+- **Web Development Tools & Frameworks:** Proficient in Gradio, Flask and Django, Laravel and React Js.
 - **Tools & Libraries:** Git, Excel, Pandas, Matplotlib, Scikit-learn, strip paymenet gatway, Mail, broadcasting, observer,
 
 ## Projects
