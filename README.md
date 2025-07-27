@@ -1,4 +1,4 @@
-# Data Scienctist and Full Stack Machine Learning Engineer
+# Data Scientist and Full Stack Machine Learning Engineer
 
 ## About Me
 Data Scientist specializing in AI and machine learning solutions with 7+ years of experience in full-stack web development. Strong R&D capabilities across medical and business sectors strengthen to uncover actionable insights, develop predictive models and implement data-driven solutions. Skilled in Python, Scikit-learn, TensorFlow, SQL, Power BI, and cloud Platform AWS. Strong collaborator with cross-functional teams, adept at translating technical concepts for stakeholders. Currently advancing expertise in Generative AI through the IBM Generative AI Professional Certificate. Seeking to leverage my R&D strengths to build innovative AI solutions for the healthcare and technology sectors.
